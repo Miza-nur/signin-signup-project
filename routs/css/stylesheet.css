@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #2393df;
+}
+.bodySection{
+    height: 350px;
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 8px;
+    align-items: center;
+    margin-left: 37%;
+    margin-top: 6%;
+    background-color: rgb(202, 222, 240);
+}
+input{
+    padding: 5px;
+}
+.registerdiv{
+    height: 470px;
+    width: 400px;
+    border: 2px solid white;
+    border-radius: 8px;
+    align-items: center;
+    margin-left: 33%;
+    margin-top: 2%;
+    background-color: rgb(202, 222, 240);
+}
